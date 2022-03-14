@@ -41,10 +41,37 @@ Django
 ```
 ## 프로젝트 초기 구성
 ### 메인페이지, 로그인 페이지, 회원가입 페이지
-![image](https://user-images.githubusercontent.com/100177702/158133946-5d40df90-e3ad-44e7-a3bb-8018e5061210.png)
+![image](https://user-images.githubusercontent.com/100177702/158135638-913a06a2-2173-4d50-95a8-518204768a5a.png)
 
-- 메인페이지 : 검색기능 및
+- 메인 페이지 : 검색기능 및 [About, How to user, Dashboard]에 대한 간략한 설명을 볼 수 있고 상단의 로그인 버튼을 통해 로그인을 진행할 수 있음
+<br>
 
+- 로그인 페이지 : 로그인 페이지로 이동시 아이디와 비밀번호를 입력하여 로그인을 진행할 수 있고 추가적으로 회원가입 및 id/pw찾기 기능구현예정
+<br>
+
+- 회원가입 페이지 : 회원가입페이지는 각각의 입력상자를 통해 사용자에게 값을 입력 받아 회원가입을 진행 할 수 있도록 구성
+
+<br><br>
+
+### About, Dashboard 페이지
+![image](https://user-images.githubusercontent.com/100177702/158135408-5c1427d6-01d9-403f-b935-4739df963849.png)
+
+- About 페이지 : 상단의 메뉴바의 어바웃 페이지의 경우 7log의 간단 소개글을 볼 수 있음
+<br>
+
+- Dashboard : 대쉬보드 페이지로 이동시 7log에 작성된 게시글을 확인 할 수 있음
+
+<br><br>
+
+### 새글작성, 게시글 상세보기 페이지
+![image](https://user-images.githubusercontent.com/100177702/158135847-3886b0b4-547a-43dc-be5b-83fd157c9b4f.png)
+
+- 새글작성 페이지 : 새글작성 시 이미지, 지도, 제목, 사용자명, 내용이 들어감
+<br>
+
+- 상세보기 페이지 : 작성된 게시글의 상세보기를 통해 좋아요 및 수정, 삭제, 댓글 기능을 구현예정
+
+<br><br>
 
 
 ## 프로젝트 결과물
