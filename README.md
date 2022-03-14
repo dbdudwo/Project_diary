@@ -100,6 +100,9 @@ Django
 <br>
 <br>
 
+#### 주의사항
+- 입력값을 모두 입력하지 않으면 오류메시지 출력
+
 ---
 <br>
 
@@ -110,6 +113,9 @@ Django
 <br>
 <br>
 
+
+#### 주의사항
+- 값을 잘못  오류메시지 출력
 ---
 <br>
 
@@ -144,11 +150,34 @@ Django
 ### About 페이지
 <br>
 
-![image](https://user-images.githubusercontent.com/100177702/158141383-90664192-7e74-4a78-af3f-362dfe89fc1f.png)
+![image](https://user-images.githubusercontent.com/100177702/158143469-baddca4b-2096-4aa4-bdf4-9a93a8a4e9c7.png)
 <br>
 <br>
 
 ---
 <br>
 
+
+### How to use 페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158143521-a8c0fab6-32f3-4529-8aaf-50def343e690.png)
+<br>
+<br>
+
+- How to use 페이지를 통해 사용자가 7log의 사용방법을 확인 가능
+
+---
+<br>
+
+
+### Dashboard 페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158143664-b44fe2d9-b9db-4813-b661-2b434f094999.png)
+<br>
+<br>
+
+---
+<br>
 
