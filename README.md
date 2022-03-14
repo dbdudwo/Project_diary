@@ -40,6 +40,7 @@ framework
 Django
 ```
 ## 프로젝트 초기 구성
+
 ### 메인페이지, 로그인 페이지, 회원가입 페이지
 ![image](https://user-images.githubusercontent.com/100177702/158135638-913a06a2-2173-4d50-95a8-518204768a5a.png)
 
@@ -90,6 +91,7 @@ Django
 <br>
 
 ---
+<br>
 
 ### 회원가입 페이지
 <br>
@@ -99,6 +101,7 @@ Django
 <br>
 
 ---
+<br>
 
 ### 로그인 페이지
 <br>
@@ -108,6 +111,19 @@ Django
 <br>
 
 ---
+<br>
+
+### 새글작성 페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158141383-90664192-7e74-4a78-af3f-362dfe89fc1f.png)
+<br>
+<br>
+
+---
+<br>
+
+
 ### 메인페이지
 <br>
 
@@ -115,9 +131,7 @@ Django
 <br>
 <br>
 
-
-### 메인페이지
+---
 <br>
 
-![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
-<br><br><br>
+
