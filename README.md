@@ -124,10 +124,27 @@ Django
 <br>
 
 
-### 메인페이지
+### 상세보기 페이지
 <br>
 
-![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+- 상세보기
+
+![image](https://user-images.githubusercontent.com/100177702/158142104-5f2aab14-5773-4ece-96e7-035c7145011f.png)
+<br>
+<br>
+
+- 댓글
+
+![image](https://user-images.githubusercontent.com/100177702/158142828-fda50c70-ac97-4f9a-844a-40fd950682a9.png)
+
+---
+<br>
+
+
+### About 페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158141383-90664192-7e74-4a78-af3f-362dfe89fc1f.png)
 <br>
 <br>
 
