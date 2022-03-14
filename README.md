@@ -75,6 +75,42 @@ Django
 
 
 ## 프로젝트 결과물
-기능 및 결과 예시 화면
 <br>
+
+기능 및 결과 예시 화면
+---
+<br><br>
+
 ### 메인페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+<br><br>
+
+
+### 메인페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+<br><br>
+
+
+### 메인페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+<br><br>
+
+
+### 메인페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+<br><br>
+
+
+### 메인페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+<br><br>
