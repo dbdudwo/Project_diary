@@ -78,39 +78,46 @@ Django
 <br>
 
 기능 및 결과 예시 화면
+
+
+<br><br>
+
+### 메인페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+<br>
+<br>
+
 ---
-<br><br>
+
+### 회원가입 페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158140479-58169389-2bad-425b-8e98-64bed5dacade.png)
+<br>
+<br>
+
+---
+
+### 로그인 페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158140563-e478d0f3-d564-4606-a5d4-6e0b39a575fb.png)
+<br>
+<br>
+
+---
+### 메인페이지
+<br>
+
+![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
+<br>
+<br>
+
 
 ### 메인페이지
 <br>
 
 ![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
-<br><br>
-
-
-### 메인페이지
-<br>
-
-![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
-<br><br>
-
-
-### 메인페이지
-<br>
-
-![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
-<br><br>
-
-
-### 메인페이지
-<br>
-
-![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
-<br><br>
-
-
-### 메인페이지
-<br>
-
-![image](https://user-images.githubusercontent.com/100177702/158139793-27b57f14-ccc5-4b9a-b40e-d1ad12001217.png)
-<br><br>
+<br><br><br>
